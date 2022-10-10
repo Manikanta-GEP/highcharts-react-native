@@ -14,7 +14,7 @@
   "license": "SEE LICENSE IN <LICENSE>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/highcharts/highcharts-react-native.git"
+    "url": "git+https://github.com/Manikanta-GEP/highcharts-react-native.git"
   },
   "keywords": [
     "highcharts",
